@@ -1,0 +1,10 @@
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.mid{
+    text-align: center;
+}
+.mar_r{  margin-right: 30px;}
